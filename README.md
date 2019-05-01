@@ -25,7 +25,7 @@ console.log(get_object_vars(greeter));
 See [get_object_vars](https://www.php.net/manual/en/function.get-object-vars.php)
 
 
-### 
+### Todos
  - check static properties
 
 License
