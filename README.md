@@ -20,6 +20,12 @@ var Greeter = /** @class */ (function () {
 }());
 var greeter = new Greeter("world");
 console.log(get_object_vars(greeter));
+
+console.log(get_object_vars({
+	name:'John',
+	wifeName:'Doe'
+}));
+
 ```
 
 #### This Method in PHP
