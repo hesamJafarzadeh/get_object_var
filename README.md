@@ -23,7 +23,7 @@ console.log(get_object_vars(greeter));
 
 console.log(get_object_vars({
 	name:'John',
-	wifeName:'Doe'
+	family:'Doe'
 }));
 
 ```
