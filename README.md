@@ -1,10 +1,12 @@
-# get_object_var
+# get_object_vars
 
 Gets the properties of the given object
 
 
 # Usage
 Download get_object_var function and pass object to get_object_var and Gets the properties of the given object.
+
+Example: 
 
 ```sh
 var Greeter = /** @class */ (function () {
