@@ -1,4 +1,4 @@
-# get_object_vars
+# get_object_vars in Javascript
 
 Gets the properties of the given object
 
